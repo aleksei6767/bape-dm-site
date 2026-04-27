@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aleksei6767.github.io/bape-dm-site/sitemap.xml
